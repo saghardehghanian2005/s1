@@ -1,0 +1,28 @@
+
+  body {
+    font-family: 'Shabnam', sans-serif;
+    direction: rtl;
+  }
+  body {
+    background-color: rgb(206, 169, 68);
+    /* rgb background */
+  }
+  p.p1 {
+    color:rgba(96, 91, 76, 0.881) ;
+    text-shadow: 1px 2px;
+  }
+  p.p2 {
+    font-weight: 700;
+    text-shadow: 1px 2px 5px rgb(233, 192, 11);/* سومین مقدار میزان تغییرات را روی سایه نشان میدهد */
+  }
+  p.p3 {
+    font-weight: 700;
+    text-shadow: 1px 2px 5px rgb(202, 117, 5);/* سومین مقدار میزان تغییرات را روی سایه نشان میدهد */
+  }
+  p.p4 {
+    font-weight: 700;
+    text-shadow: 1px 2px 5px rgb(232, 67, 16);/* سومین مقدار میزان تغییرات را روی سایه نشان میدهد */
+  }
+  div.div1 :hover {
+    background-color:gray;
+  }
